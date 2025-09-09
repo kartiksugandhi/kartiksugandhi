@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi there 👋, I'm kartik
 
-<!--
-**kartiksugandhi/kartiksugandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 About Me
+I am a SY Diploma B.Tech student specializing in **Artificial Intelligence & Data Science** at **MIT WPU University**.  
+Currently honing my skills in coding, with intermediate proficiency in **C++** and a keen interest in learning **Python**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Interests
+- Programming Languages:  
+  - Intermediate in **C++**  
+  - Learning **Python**  
+- Areas of Interest:  
+  - Coding & Problem Solving  
+  - Artificial Intelligence & Data Science  
+
+---
+
+## 🌱 What I’m Learning
+- Python programming language  
+- AI & Data Science concepts and applications  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/kartik-sugandhi-346232374  
+- Email: kartik.sugandhi08@gmail.com
+
+---
+
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+Thanks for stopping by! Feel free to check out my repositories and projects. 🚀
